@@ -1,3 +1,6 @@
 [submodule "YOLOv4_Model/PyTorch_YOLOv4"]
 	path = YOLOv4_Model/PyTorch_YOLOv4
 	url = https://github.com/Nevindu/PyTorch_YOLOv4.git
+[submodule "YOLOv4_Model/darknet"]
+	path = YOLOv4_Model/darknet
+	url = https://github.com/Nevindu/darknet.git
